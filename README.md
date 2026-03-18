@@ -37,3 +37,15 @@ Filter events by attack type or risk level.
  • Streamlit
  • Plotly
  • Pandas
+Run The Platform:
+ streamlit run app.py
+
+⸻
+
+👤 Author
+
+Abdulaziz Al-Khathami
+Cybersecurity Student | SOC & Cloud Security Enthusiast
+
+
+ 
