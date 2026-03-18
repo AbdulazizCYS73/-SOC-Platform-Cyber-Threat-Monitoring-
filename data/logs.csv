@@ -1,0 +1,5 @@
+time,ip,country,attack_type,risk,lat,lon
+10:01,192.168.1.1,Russia,Brute Force,High,61,105
+10:02,45.12.3.4,China,SQL Injection,Critical,35,104
+10:03,10.0.0.1,USA,Port Scan,Medium,37,-95
+10:04,185.12.1.1,Germany,DDoS,High,51,9
