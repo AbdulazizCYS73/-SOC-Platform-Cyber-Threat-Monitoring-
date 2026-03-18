@@ -187,7 +187,6 @@ with map_col:
         )
     ))
 
-    # خطوط الهجوم
     target_lon = 46.67
     target_lat = 24.71
 
