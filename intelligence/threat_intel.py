@@ -1,6 +1,6 @@
 import requests
-
-API_KEY = "5f0e5430fb506b7f8a29652273a489c34a4aa323c943ce343788504154c1dd8b697bac814ace0e29"
+import os 
+API_KEY = os.getenv("ABUSEIPDB_KEY")
 
 def check_ip(ip):
 
